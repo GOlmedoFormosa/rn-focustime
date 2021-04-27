@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
   },
   title: {
     color: colors.white,
-    fontWeight: 'bol  d',
+    fontWeight: 'bold',
     fontSize: fontSizes.lg,
   },
   inputContainer: {
